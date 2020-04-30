@@ -57,3 +57,4 @@ telegraph
 PyPDF2
 qrcode
 instantmusic
+pytube3
